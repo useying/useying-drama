@@ -1,0 +1,81 @@
+LICENSE NOTICE
+==============
+
+IMPORTANT LEGAL NOTICE:
+- This software may only be used for lawful purposes.
+- You are solely responsible for ensuring compliance with all applicable laws.
+- Illegal use of this software is strictly prohibited.
+
+Basic License:
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+To view the full license text, please visit: https://www.gnu.org/licenses/agpl-3.0.txt
+
+License Scope Explanation:
+
+PERMITTED USES (No Additional Authorization Required):
+1. Lawful Use - Use only for lawful purposes in compliance with all applicable laws
+2. Content Creation - Use the software to create content (videos, images, etc.) and commercialize it
+3. Personal/Internal Use - Modify the software for yourself or your team's internal use
+4. Open Source Distribution - Distribute the software (including modified versions) under AGPL terms
+
+SPECIAL REQUIREMENTS FOR SaaS/ONLINE SERVICES:
+Under AGPL v3, providing online services (e.g., SaaS) based on this software requires open-sourcing server-side modifications.
+
+If you want to:
+- Provide SaaS services based on this software
+- Do not want to open-source your modifications
+- Need commercial licensing and legal support
+
+Obtain a commercial license:
+Contact: admin@useying.com
+
+Why This Licensing Approach?
+Our goals are:
+- To enable individual creators and open-source communities to use freely
+- To ensure SaaS service improvements contribute back to the community
+- To provide a legal licensing path for enterprises needing closed-source commercialization
+
+LEGAL DISCLAIMER:
+The software is provided "as is", without warranty of any kind. Users assume full legal responsibility for their use of this software. The authors are not liable for any misuse, illegal activities, or damages resulting from the use of this software.
+
+===============================
+
+许可证说明
+==========
+
+重要法律声明：
+- 本软件仅可用于合法用途。
+- 您需自行确保使用符合所有适用法律。
+- 严格禁止使用本软件进行任何违法活动。
+
+基本许可证：
+本项目采用 GNU Affero General Public License v3.0 (AGPL-3.0) 许可证。
+查看完整许可证文本，请访问：https://www.gnu.org/licenses/agpl-3.0.txt
+
+许可范围说明：
+
+允许的行为（无需额外授权）：
+1. 合法使用 - 仅可用于符合所有适用法律的合法用途
+2. 内容创作 - 使用本软件制作视频、图像等内容并商业化盈利
+3. 个人/内部使用 - 修改软件供自己或团队内部使用
+4. 开源分发 - 在遵守AGPL条款下分发软件（包括修改版）
+
+SaaS/在线服务的特殊要求：
+根据AGPL v3，提供基于本软件的在线服务（如SaaS）时，必须开源服务端的修改代码。
+
+如果您希望：
+- 提供基于本软件的SaaS服务
+- 不希望开源您的修改代码
+- 需要商业授权和法律支持
+
+请获取商业许可证：
+联系方式：admin@useying.com
+
+为什么选择此许可方式？
+我们的目标是：
+- 让个人创作者和开源社区能够自由使用
+- 确保SaaS服务的改进能回馈社区
+- 为需要闭源商业化的企业提供合法授权途径
+
+法律免责声明：
+本软件按"现状"提供，不附带任何担保。用户需对其使用本软件的行为承担全部法律责任。作者不对任何滥用、非法活动或使用本软件造成的损害承担责任。
