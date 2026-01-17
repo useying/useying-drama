@@ -1,81 +1,191 @@
 LICENSE NOTICE
 ==============
 
-IMPORTANT LEGAL NOTICE:
+Software Name: UseYing-Drama
+Copyright © 2025-2026 UseYing
+All Rights Reserved.
+
+==============
+IMPORTANT LEGAL NOTICE
+==============
 - This software may only be used for lawful purposes.
-- You are solely responsible for ensuring compliance with all applicable laws.
+- You are solely responsible for ensuring compliance with all applicable laws and regulations.
 - Illegal use of this software is strictly prohibited.
 
-Basic License:
+==============
+BASIC LICENSE
+==============
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 To view the full license text, please visit: https://www.gnu.org/licenses/agpl-3.0.txt
 
-License Scope Explanation:
+==============
+LICENSE SCOPE EXPLANATION
+==============
 
 PERMITTED USES (No Additional Authorization Required):
-1. Lawful Use - Use only for lawful purposes in compliance with all applicable laws
-2. Content Creation - Use the software to create content (videos, images, etc.) and commercialize it
-3. Personal/Internal Use - Modify the software for yourself or your team's internal use
-4. Open Source Distribution - Distribute the software (including modified versions) under AGPL terms
 
-SPECIAL REQUIREMENTS FOR SaaS/ONLINE SERVICES:
-Under AGPL v3, providing online services (e.g., SaaS) based on this software requires open-sourcing server-side modifications.
+1. Lawful Use
+   Use only for lawful purposes in compliance with all applicable laws and regulations.
+
+2. Content Creation
+   Use the software to create content (videos, images, etc.) and commercialize it freely.
+
+3. Personal/Internal Use
+   Modify the software for yourself or your organization's internal use.
+
+4. Open Source Distribution
+   Distribute the software (including modified versions) under AGPL-3.0 terms.
+
+5. Private Deployment
+   Deploy the software for clients in private environments, provided that:
+   - You retain all original copyright notices and attribution to "UseYing-Drama"
+   - You do not misrepresent the software as your own creation
+   - You do not remove or modify the original author information
+
+==============
+SPECIAL REQUIREMENTS FOR SaaS/ONLINE SERVICES
+==============
+
+Under AGPL v3.0, providing online services based on this software requires open-sourcing server-side modifications.
+
+The following are considered SaaS/Online Services:
+✓ Providing API services to third parties
+✓ Embedding this software into other products/services offered to users
+✓ Operating web-based services where users interact with the software over a network
+
+The following are NOT considered SaaS/Online Services:
+✗ Private deployment for specific clients (as long as copyright notices remain intact)
+✗ Internal use within your organization
+✗ Creating and selling content made with the software
+
+==============
+COMMERCIAL LICENSE
+==============
 
 If you want to:
 - Provide SaaS services based on this software
 - Do not want to open-source your modifications
 - Need commercial licensing and legal support
 
-Obtain a commercial license:
-Contact: admin@useying.com
+Please contact us to obtain a commercial license:
+📧 Email: admin@useying.com
 
-Why This Licensing Approach?
+==============
+WHY THIS LICENSING APPROACH?
+==============
+
 Our goals are:
 - To enable individual creators and open-source communities to use freely
 - To ensure SaaS service improvements contribute back to the community
 - To provide a legal licensing path for enterprises needing closed-source commercialization
+- To protect the original authorship and prevent misrepresentation
 
-LEGAL DISCLAIMER:
-The software is provided "as is", without warranty of any kind. Users assume full legal responsibility for their use of this software. The authors are not liable for any misuse, illegal activities, or damages resulting from the use of this software.
+==============
+LEGAL DISCLAIMER
+==============
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Users assume full legal responsibility for their use of this software. The authors are not liable for any misuse, illegal activities, or damages resulting from the use of this software.
+
+===============================
 ===============================
 
 许可证说明
 ==========
 
-重要法律声明：
+软件名称：UseYing-Drama
+版权所有 © 2025-2026 UseYing
+保留所有权利。
+
+==========
+重要法律声明
+==========
 - 本软件仅可用于合法用途。
-- 您需自行确保使用符合所有适用法律。
+- 您需自行确保使用符合所有适用的法律法规。
 - 严格禁止使用本软件进行任何违法活动。
 
-基本许可证：
+==========
+基本许可证
+==========
 本项目采用 GNU Affero General Public License v3.0 (AGPL-3.0) 许可证。
 查看完整许可证文本，请访问：https://www.gnu.org/licenses/agpl-3.0.txt
 
-许可范围说明：
+==========
+许可范围说明
+==========
 
 允许的行为（无需额外授权）：
-1. 合法使用 - 仅可用于符合所有适用法律的合法用途
-2. 内容创作 - 使用本软件制作视频、图像等内容并商业化盈利
-3. 个人/内部使用 - 修改软件供自己或团队内部使用
-4. 开源分发 - 在遵守AGPL条款下分发软件（包括修改版）
 
-SaaS/在线服务的特殊要求：
-根据AGPL v3，提供基于本软件的在线服务（如SaaS）时，必须开源服务端的修改代码。
+1. 合法使用
+   仅可用于符合所有适用法律法规的合法用途。
+
+2. 内容创作
+   使用本软件制作视频、图像等内容并自由商业化盈利。
+
+3. 个人/内部使用
+   修改软件供自己或组织内部使用。
+
+4. 开源分发
+   在遵守 AGPL-3.0 条款下分发软件（包括修改版）。
+
+5. 私有化部署
+   为客户进行私有化部署，前提是：
+   - 保留所有原始版权声明和"UseYing-Drama"的署名
+   - 不将软件谎称为自己的作品
+   - 不删除或修改原作者信息
+
+==========
+SaaS/在线服务的特殊要求
+==========
+
+根据 AGPL v3.0，提供基于本软件的在线服务时，必须开源服务端的修改代码。
+
+以下情况被视为 SaaS/在线服务：
+✓ 向第三方提供 API 服务
+✓ 将本软件嵌入到提供给用户的其他产品/服务中
+✓ 运营基于网络的服务，用户通过网络与软件交互
+
+以下情况不被视为 SaaS/在线服务：
+✗ 为特定客户进行私有化部署（只要保留版权声明）
+✗ 组织内部使用
+✗ 使用软件创作内容并销售
+
+==========
+商业许可证
+==========
 
 如果您希望：
-- 提供基于本软件的SaaS服务
+- 提供基于本软件的 SaaS 服务
 - 不希望开源您的修改代码
 - 需要商业授权和法律支持
 
-请获取商业许可证：
-联系方式：admin@useying.com
+请联系我们获取商业许可证：
+📧 联系方式：admin@useying.com
 
+==========
 为什么选择此许可方式？
+==========
+
 我们的目标是：
 - 让个人创作者和开源社区能够自由使用
-- 确保SaaS服务的改进能回馈社区
+- 确保 SaaS 服务的改进能回馈社区
 - 为需要闭源商业化的企业提供合法授权途径
+- 保护原作者署名权，防止冒名顶替
 
-法律免责声明：
-本软件按"现状"提供，不附带任何担保。用户需对其使用本软件的行为承担全部法律责任。作者不对任何滥用、非法活动或使用本软件造成的损害承担责任。
+==========
+法律免责声明
+==========
+
+本软件按"现状"提供，不附带任何明示或暗示的担保，包括但不限于适销性、特定用途适用性和非侵权性的担保。
+
+在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，由软件或软件的使用或其他交易引起、产生或与之相关。
+
+用户需对其使用本软件的行为承担全部法律责任。作者不对任何滥用、非法活动或使用本软件造成的损害承担责任。
+
+===============================
+License Version: 1.0
+Last Updated: January 2026
+===============================
